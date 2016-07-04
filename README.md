@@ -1,3 +1,3 @@
 # notebook
 - Linux System Administrate
-- Linux Kernel
+- Linux Kernel Development
