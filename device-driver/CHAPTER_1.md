@@ -19,14 +19,16 @@
 
 Linux device is classifiable as:
 
-- Character devices
+- Character devices 
 
     A character device is one that can be accessed as a stream of bytes. Character device can be accessed by means of filesystem nodes, such as /dev/tty1 and /dev/lp0.
 
-- Block devices
+- Block devices 
+
 
     A block device is a device that can host a filesystem
 
-- Network devices
+- Network devices 
 
     Any network transaction is mode through an interface, that is , a device that is able to exchange data with other hosts. The Unix wat to provide access to interfaces is still by assigning a unique name such eth0
+    
