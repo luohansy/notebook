@@ -14,4 +14,5 @@
 
 ## Loadable Module
 > Each piece of code that can be added to the kernel at runtime is called a **module**
+
 ![A split view of the kernel](http://www.makelinux.net/ldd3/images/0596005903/figs/ldr3_0101.gif "A split view of the kernel")
